@@ -15,7 +15,7 @@
 <br>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{VJBots}/count.svg" alt="Tech VJ :: Visitor's Count" />
-<img src="https://komarev.com/ghpvc/?username=VJBots&color=brightyellow" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=VJBots&color=yellow" alt="watching_count" />
 </p>
 
 <h3 align="center"><b><i>Github Statistics :-</i></b></h3>
