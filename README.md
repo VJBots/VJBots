@@ -23,7 +23,7 @@
 
 ## GitHub 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=VJBots&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/VJBots/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=VJBots&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/VJBots)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VJBots&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VJBots&theme=chartreuse-dark" alt="mystreak"/>
 <a href="https://github.com/VJBots"><img width=550 src="https://github-profile-trophy.vercel.app/?username=VJBots&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
