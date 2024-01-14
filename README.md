@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **VJBots/VJBots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <a href="https://github.com/VJBots/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Tech+VJ&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+</p>
