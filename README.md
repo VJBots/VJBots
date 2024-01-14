@@ -34,6 +34,7 @@
 <a href="https://www.youtube.com/@Tech_VJ">
     &nbsp;<img src="https://img.shields.io/badge/Tech VJ's YT-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
 <a href="https://youtube.com/@Tech_VJ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCEWm-JSe1r-2LfHJkIhtbJQ?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/>
+</a>
 </p>
 
 ## Contact Me 
