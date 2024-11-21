@@ -15,9 +15,6 @@
 <br>
 <br>
 <p align="center">
-<img src="https://profile-counter.glitch.me/{VJBots}/count.svg" alt="Tech VJ :: Visitor's Count" />
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=VJBots&color=yellow" alt="watching_count" />
 </p>
 
